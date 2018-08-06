@@ -336,7 +336,7 @@ input, select, textarea {
   font-family: inherit;
   font-size: 100%;
   border: 1px solid $lighter-gray;
-  border-radius: 5px;
+  border-radius: 7px;
   background-color: $white;
 }
 
@@ -386,7 +386,7 @@ button {
   -webkit-appearance: none;
   color: $white;
   background-color: $orange;
-  border-radius: 5px;
+  border-radius: 7px;
 	-webkit-transition: box-shadow, border-color .05s ease-out;
 	-moz-transition: box-shadow, border-color .05s ease-out;
 	-ms-transition: box-shadow, border-color .05s ease-out;
